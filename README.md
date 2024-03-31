@@ -1,4 +1,4 @@
-![image](https://github.com/lai11235/Data-Science/assets/61737020/204c5a9a-7b49-49a6-a30c-09ab2acfc06a)# 資料科學導論專案實作
+# 資料科學導論專案實作
 ## Homework 1
 #### 1. 透過多個 feature ，如日期、風向、溫度和濕度等資訊所形'成的資料集，來訓練一個判斷是否今天下雨的模型
 #### 2. 訓練資料透過資料平衡、資料捨去和資料擴展等手段來進行 preprocessing
